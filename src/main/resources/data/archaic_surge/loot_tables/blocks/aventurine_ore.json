@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:block",
+  "pools": [{
+      "bonus_rolls": 0.0,
+      "conditions": [{
+          "condition": "minecraft:survives_explosion"
+        }],
+    "entries": [{
+      "type": "minecraft:item",
+      "name": "archaic_surge:aventurine_ore"
+    }],
+    "rolls": 1.0
+    }],
+  "random_sequence": "archaic_surge:blocks/aventurine_ore"
+}

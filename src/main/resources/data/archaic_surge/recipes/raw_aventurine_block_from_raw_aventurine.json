@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "archaic_surge:raw_aventurine"
+    }
+  },
+  "result": {
+    "item": "archaic_surge:raw_aventurine_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "archaic_surge:raw_aventurine_block"
+    }
+  ],
+  "result": {
+    "item": "archaic_surge:raw_aventurine",
+    "count": 9
+  }
+}

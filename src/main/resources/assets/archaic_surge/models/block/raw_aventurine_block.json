@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "archaic_surge:block/raw_aventurine_block"
+  }
+}
