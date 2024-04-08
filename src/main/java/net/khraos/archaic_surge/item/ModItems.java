@@ -1,11 +1,11 @@
-package net.nyxian.archaic_surge.item;
+package net.khraos.archaic_surge.item;
 
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-import net.nyxian.archaic_surge.ArchaicSurge;
+import net.khraos.archaic_surge.ArchaicSurge;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =

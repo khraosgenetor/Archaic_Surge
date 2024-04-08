@@ -1,4 +1,4 @@
-package net.nyxian.archaic_surge.block;
+package net.khraos.archaic_surge.block;
 
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -10,8 +10,8 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-import net.nyxian.archaic_surge.ArchaicSurge;
-import net.nyxian.archaic_surge.item.ModItems;
+import net.khraos.archaic_surge.ArchaicSurge;
+import net.khraos.archaic_surge.item.ModItems;
 
 import java.util.function.Supplier;
 

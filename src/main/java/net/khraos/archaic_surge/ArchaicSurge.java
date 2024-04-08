@@ -1,4 +1,4 @@
-package net.nyxian.archaic_surge;
+package net.khraos.archaic_surge;
 
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -14,9 +14,9 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.nyxian.archaic_surge.block.ModBlocks;
-import net.nyxian.archaic_surge.item.ModCreativeModTabs;
-import net.nyxian.archaic_surge.item.ModItems;
+import net.khraos.archaic_surge.block.ModBlocks;
+import net.khraos.archaic_surge.item.ModCreativeModTabs;
+import net.khraos.archaic_surge.item.ModItems;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file

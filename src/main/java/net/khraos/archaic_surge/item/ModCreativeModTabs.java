@@ -1,4 +1,4 @@
-package net.nyxian.archaic_surge.item;
+package net.khraos.archaic_surge.item;
 
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
@@ -7,8 +7,8 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.RegistryObject;
-import net.nyxian.archaic_surge.ArchaicSurge;
-import net.nyxian.archaic_surge.block.ModBlocks;
+import net.khraos.archaic_surge.ArchaicSurge;
+import net.khraos.archaic_surge.block.ModBlocks;
 
 public class ModCreativeModTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
